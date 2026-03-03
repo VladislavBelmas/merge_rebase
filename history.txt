@@ -1,0 +1,197 @@
+    1  vi
+    2  cd
+    3  ssh-keygen
+    4  ssh-keygen
+    5  cat .ssh
+    6  cat .ssh/id_ed25519.pub
+    7  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+    8  cd C:\Users\vladb\Documents\ICH\HOMEWORK LINUX
+    9  ls
+   10  cd //
+   11  cd/
+   12  cd
+   13  cd
+   14  cd /
+   15  cd
+   16  cd [200~
+   17  cd C:\Users\vladb\Documents\ICH\HOMEWORK LINUX
+   18  cd C:\Users\vladb\Documents\ICH\HOMEWORK_LINUX
+   19  cd C:\Users\vladb\Documents\ICH\HOMEWORK_LINUX
+   20  cd C:\Users\vladb
+   21  cd C:\Users\
+   22  cd C:\Users\vladb\Documents\ICH\HOMEWORK_LINUX
+   23  cd vladb/
+   24  cd /c
+   25  cd user/
+   26  cd Users\vladb\Documents\ICH\HOMEWORK_LINUX
+   27  cd Users/vladb/Documents/ICH/HOMEWORK_LINUX/
+   28  scp ec2-user@linux.itcareerhub.de:/opt/121225-ptm/VladB/file.txt ./
+   29  ls
+   30  exit
+   31  exit
+   32  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   33  exit
+   34  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   35  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   36  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   37  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   38  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   39  close
+   40  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   41  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   42  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   43  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   44  cd ..
+   45  cd vladb/
+   46  cd Documents/ICH/HOMEWORK_LINUX/git_intro/
+   47  git init
+   48  git add dwayne
+   49  git add dwayne.jpg
+   50  git commit -m "Added jpg"
+   51  git config --global user.name "VladislavBelmas"
+   52  git config --global user.email "vladislav.belmas1@gmail.com"
+   53  git commit -m "Added jpg"
+   54  git branch -M main
+   55  git remote add origin git@github.com:VladislavBelmas/git_intro.git
+   56  git remote add origin git@github.com:VladislavBelmas/git_intro.git
+   57  git push -u origin main
+   58  btop
+   59  htop
+   60  -btop
+   61  -htop
+   62  cd /c/Users/vladb/PyCharmMiscProject
+   63  ls -la
+   64  git init
+   65  git add BelmasHomework12.py 
+   66  git commit 
+   67  cd /c/Users/vladb/PyCharmMiscProject
+   68  ls -la
+   69  cat .git/
+   70  cd .git/
+   71  ls -la
+   72  git branch -M main
+   73  git remote add origin https://github.com/VladislavBelmas/Python.git
+   74  git push origin main
+   75  git init
+   76  cd /c/Users/vladb/PyCharmMiscProject
+   77  git init
+   78  git add BelmasHomework12.py 
+   79  git commit -m "Homework 12"
+   80  git branch -M main
+   81  git remote add origin https://github.com/VladislavBelmas/Python.git
+   82  push -u origin main
+   83  git push -u origin main
+   84  git add BelmasHomework13.py 
+   85  cd /c/Users/vladb/PyCharmMiscProject
+   86  ls -la
+   87  git add homeworkPythonBelmas13.py 
+   88  git add homeworkPythonBelmas13.py 
+   89  git add homeworkPythonBelmas13.py 
+   90  ls -la
+   91  cd .git
+   92  ls -la
+   93  cd ..
+   94  cd /c/Users/vladb/PyCharmMiscProject
+   95  cd ..
+   96  cd /c/Users/vladb/PyCharmMiscProject
+   97  cd /c/Users/vladb/Documents/ICH/HOMEWORK_LINUX/
+   98  curl -O  https://raw.githubusercontent.com/VladislavBelmas/git_intro/blob/main/.gitignore
+   99  ls -la
+  100  curl -O  https://raw.githubusercontent.com/VladislavBelmas/git_intro/blob/main/.gitignore.txt
+  101  curl -O  https://raw.githubusercontent.com/VladislavBelmas/git_intro/blob/main/.gitignore
+  102  cd /c/Users/vladb/Documents/ICH/HOMEWORK_LINUX/
+  103  mkdir git-branch
+  104  cd git-branch
+  105  git init
+  106  git branch gitignore
+  107  git remote add origin git@github.com:VladislavBelmas/git-branch.git
+  108  git remote -v
+  109  git checkout -b gitignore
+  110  nano .gitignore
+  111  ls -la
+  112  git add .gitignore
+  113  git commit -m "Add .gitignore file"
+  114  git push -u origin gitignore
+  115  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  116  exit
+  117  pip install -r requirements.txt
+  118  cd Z:\4 fun\BeerDetector
+  119  cd /Z:\4 fun\BeerDetector
+  120  cd /Z:
+  121  cd Z:\4 fun\BeerDetector
+  122  cd Z:
+  123  cd 4\ fun/
+  124  cd 4\ fun/cd cdcdws
+  125  cd BeerDetector/
+  126  touch launchscript.sh
+  127  nano launchscript.sh 
+  128  exit
+  129  cd..
+  130  cd ..
+  131  cd ..
+  132  touch mainlauncher.cmd
+  133  nano mainlauncher.cmd 
+  134  nano mainlauncher.cmd 
+  135  nano mainlauncher.cmd 
+  136  nano mainlauncher.cmd 
+  137  git clone git@github.com:VladislavBelmas/merge_rebase.git
+  138  git init
+  139  git add .gitignore
+  140  touch .gitignore
+  141  git config --global core.excludesfile .gitignore
+  142  git add .gitignore
+  143  git commit 'add gitignore'
+  144  git commit "added gitignore"
+  145  git commit master
+  146  git commit
+  147  git pull
+  148  git pull origin master
+  149  ls -la
+  150  cd merge_rebase/
+  151  git pull origin master
+  152  git branch -r
+  153  git pull origin main
+  154  git pull
+  155  ls -la
+  156  nano README.md
+  157  nano .gitignore
+  158  ls -la
+  159  touch .gitignore
+  160  git config --global core.excludesfile .gitignore
+  161  git add README.md 
+  162  git add .gitignore 
+  163  git commit -m "added 2 files"
+  164  git log --oneline
+  165  git reset --hard HEAD~1
+  166  rm -rf .git'
+rm -rf .git
+
+  167  rm -rf .git
+  168  git init
+  169  git checkout -b feature
+  170  ls -la
+  171  git add .gitignore 
+  172* 
+  173  git brach -a
+  174  git branch -a
+  175  git push -u origin feature
+  176  git commit -m "added 2 files and created new branch"
+  177  git push -u origin feature
+  178  git remote -v
+  179  git remote add origin https://github.com/VladislavBelmas/merge_rebase
+  180  git remote -v
+  181  git push -u origin feature
+  182  git commit --amend
+  183  git checkout main
+  184  git checkout master
+  185  git branch -a
+  186  git branch 
+  187  git fetch -all
+  188  git fetch --all
+  189  git branch -r
+  190  git checkout -b master
+  191  git checkout feature
+  192  git checkout master
+  193  git merge feature
+  194  git push -u origin master 
+  195  history > history.txt
